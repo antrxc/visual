@@ -1,1 +1,0 @@
-gcc -o output main.c
